@@ -1,2 +1,2 @@
 # unifi
-Unifi Scrips
+Unifi Scripts
